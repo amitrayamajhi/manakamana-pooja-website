@@ -1,7 +1,7 @@
 /* ================================================================
    EDIT THESE — your real shop contact details
    ================================================================ */
-const SHOP_PHONE_INTL = "9779823090658"; // placeholder: country code + number, no + or spaces
+const SHOP_PHONE_INTL = "9779823090658"; // shop WhatsApp number: country code + number, no + or spaces
 const SHOP_EMAIL = "amitrayamajhi764@gmail.com";
 
 document.addEventListener("DOMContentLoaded", () => {
