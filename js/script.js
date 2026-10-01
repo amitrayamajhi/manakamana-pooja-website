@@ -61,7 +61,7 @@ function whatsappLink(message) {
 }
 
 function setupWhatsappLinks() {
-  const genericMsg = "Namaste! I would like to order some pooja items from Manakamana Pooja Samgri Bhandar.";
+  const genericMsg = "Namaste! I would like to order some pooja items from Manakamana Pooja Samagri Bhandar.";
   document.getElementById("headerWhatsapp").href = whatsappLink(genericMsg);
   document.getElementById("contactWhatsapp").href = whatsappLink(genericMsg);
   document.getElementById("floatingWhatsapp").href = whatsappLink(genericMsg);
